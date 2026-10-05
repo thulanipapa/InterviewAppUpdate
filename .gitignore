@@ -1,0 +1,14 @@
+# Build output
+[Bb]in/
+[Oo]bj/
+[Tt]est[Rr]esults/
+*.nupkg
+
+# IDE and user-specific files
+.vs/
+.idea/
+.vscode/
+*.user
+*.suo
+*.userprefs
+*.DotSettings.user
